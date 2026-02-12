@@ -51,4 +51,4 @@ Permite **informar sobre novedades**, **felicitar cumpleaños** o **enviar mensa
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/enviar-correos-php.git
+git clone https://github.com/ChamaAz/Practica-Postales.git
